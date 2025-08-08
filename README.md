@@ -1,3 +1,25 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ba145f">
+## Maria Eduarda
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&duration=3000&pause=500&color=BA145F&center=true&vCenter=true&multiline=true&width=435&lines=Hi!+I'm+Maria+Eduarda!;I'm+a+fullstack+developer;Be+welcome+%3AD)](https://git.io/typing-svg)
+**`FullStack Developer`** **`Tech Student`**
+
+<img align="right" alt="Desktop computer GIF" src="https://media.tenor.com/G78MfVfnwpYAAAAi/desktop-computer-new-computers.gif" width="90px" />
+
+I’m a fullstack developer, passionate about technology, dedicated, and always eager to learn more. I’m constantly seeking new knowledge and challenges that help me grow as a professional in the development field. Currently, I work with technologies like React, TypeScript, Tailwind CSS, .NET, C#, and MySQL, always aiming to apply best practices such as SOLID principles, Clean Code, and Git version control.
+
+##
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,cs,javascript,mongodb,mysql,nextjs,nodejs,react,tailwind,ts" />
+  </a>
+</p>
+
+##
+
+
+
+
+
+
+
+
