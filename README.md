@@ -17,8 +17,7 @@ I’m a fullstack developer, passionate about technology, dedicated, and always 
 ### GitHub Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <!-- GitHub Stats Cards -->
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=soaresmadu&show_icons=true&locale=en&theme=blueberry&rank_icon=github&card_width=300" />
+   <!-- GitHub Stats Cards <img height="140em" src="https://github-readme-stats.vercel.app/api?username=soaresmadu&show_icons=true&locale=en&theme=blueberry&rank_icon=github&card_width=300" /> -->
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaresmadu&theme=blueberry&layout=compact&card_width=300">
 </div>
 
